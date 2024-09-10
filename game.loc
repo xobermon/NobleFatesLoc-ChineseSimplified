@@ -465,21 +465,21 @@ Oct.Abilities.Vulnerable.description=目标的护甲在1小时内-10<br>地块�
 \\	Oct.Belongings.Manager.autoClaimTooltip=Auto Claim allows Mortals to claim the Gear they prefer for each slot from the available Claimables.<br><br>Mortals choose in order of Title, followed by Maturity, then Ambition. They take into account Preferences, Skills, Job Assignments, Wants and Gear Buffs.<br><br>They do not claim more than they need nor do they consider the desires of other Mortals.<br><br>Gear is automatically marked Claimable if it passes the Claimable Rules. You can override the Claimable flag per Item.<br><br>The Auto Claim Rules dictate the additional rules that your Mortals must follow when claiming a Claimable.<br><br>You can override a Mortal's choices by Giving or Taking Items from them at any time.
 \\
 \\\\
-Oct.Belongings.Manager.autoClaimTooltip=\\untranslated
+Oct.Belongings.Manager.autoClaimTooltip=自动领取可让凡胎针对每个槽位从可领取物品中领取他们比较喜欢的装备。<br><br>凡胎会按照称谓、成熟度和雄心的顺序进行选择。他们会考虑偏好、技能、事务分配、欲求和装备增益等条件。<br><br>他们只会领取自己所需的物品，不会考虑其他凡胎的期望。<br><br>如果装备符合可领取规则，则会自动标记为可领取。你可以覆盖每件物品的可领取旗标。<br><br>自动领取规则规定了凡胎在领取可领取物品时必须遵循的附加规则。<br><br>你可以随时通过给予凡胎物品或拿走凡胎的物品来覆盖凡胎的选择。
 
 \\\\
 \\
 \\	Oct.Belongings.Manager.autoJunkTooltip=Auto Junk allows you to define a set of Rules that will cause Items to be automatically considered Junk by your Mortals.<br><br>Junk can be stored separately from other Items (or not at all) and is easier to filter out and sell.<br><br>There are several disabled Rules in the list that can be beneficial to enable as your game progresses.
 \\
 \\\\
-Oct.Belongings.Manager.autoJunkTooltip=\\untranslated
+Oct.Belongings.Manager.autoJunkTooltip=自动报废可用于定义一系列规则，使凡胎可以自动认定属于垃圾的物品。<br><br>可将垃圾与其他物品分开存放（或混合存放），如此一来更容易进行筛选和出售 。<br><br>列表中有一些禁用规则，但随着游戏发展，启用这些规则会对你起到助益。
 
 \\\\
 \\
 \\	Oct.Belongings.Manager.autoSalvageTooltip=Auto Salvage allows you to define a set of Rules that will cause your Mortals to automatically queue Gear up to be Salvaged.<br><br>Salvaging recovers some resources when the Salvaged Item is destroyed, so it's a better option than letting it decay.
 \\
 \\\\
-Oct.Belongings.Manager.autoSalvageTooltip=\\untranslated
+Oct.Belongings.Manager.autoSalvageTooltip=自动回收可用于定义一系列规则，使凡胎可以自动将装备加入待回收队列。<br><br>回收物品损毁后，可回收取回部分资源，所以待其腐坏才是更好的选择。
 
 \\\\
 \\
@@ -8051,14 +8051,14 @@ Oct.Code.Belongings.IncludedIn=已包含在{belonging}中
 \\	Oct.Code.Belongings.Returned={character} returned {belonging}
 \\
 \\\\
-Oct.Code.Belongings.Returned=\\untranslated
+Oct.Code.Belongings.Returned={character}已返回{belonging}
 
 \\\\
 \\
 \\	Oct.Code.Belongings.Claimed={character} claimed {belonging}
 \\
 \\\\
-Oct.Code.Belongings.Claimed=\\untranslated
+Oct.Code.Belongings.Claimed={character}已领取{belonging}
 
 \\\\
 \\
@@ -8184,7 +8184,7 @@ Oct.Code.Belongings.Tabs.Jobs=事务
 \\	Oct.Code.Belongings.Autonomous.Title=Auto Claim
 \\
 \\\\
-Oct.Code.Belongings.Autonomous.Title=\\untranslated
+Oct.Code.Belongings.Autonomous.Title=自动领取
 
 \\\\
 \\
@@ -8198,21 +8198,21 @@ Oct.Code.Belongings.Header=所有物
 \\	Oct.Code.Belongings.AutoClaim.ClaimNow=Claim Now
 \\
 \\\\
-Oct.Code.Belongings.AutoClaim.ClaimNow=\\untranslated
+Oct.Code.Belongings.AutoClaim.ClaimNow=立即领取
 
 \\\\
 \\
 \\	Oct.Code.Belongings.Considering={character} is considering {slot} options...
 \\
 \\\\
-Oct.Code.Belongings.Considering=\\untranslated
+Oct.Code.Belongings.Considering={character}正在考虑{slot}选项……
 
 \\\\
 \\
 \\	Oct.Code.Belongings.AutoClaim.In=Auto Claims in {timeframe}...
 \\
 \\\\
-Oct.Code.Belongings.AutoClaim.In=\\untranslated
+Oct.Code.Belongings.AutoClaim.In=在{timeframe}后可自动领取……
 
 \\\\
 \\
@@ -9381,7 +9381,7 @@ Oct.Code.Characters.Obedience.To.Adjective.InsubordDeferentinate=顺从
 \\	Oct.Code.Characters.Obedience.To={adjective} to {kingdom}
 \\
 \\\\
-Oct.Code.Characters.Obedience.To={adjective}{kingdom}
+Oct.Code.Characters.Obedience.To={adjective}至{kingdom}
 
 \\\\
 \\
@@ -13959,7 +13959,7 @@ Oct.Code.Commands.Gather=收集
 \\	Oct.Code.Common.Add=Add
 \\
 \\\\
-Oct.Code.Common.Add=\\untranslated
+Oct.Code.Common.Add=添加
 
 \\\\
 \\
@@ -14232,7 +14232,7 @@ Oct.Code.Common.Expected=预计
 \\	Oct.Code.Common.Everything=Everything
 \\
 \\\\
-Oct.Code.Common.Everything=\\untranslated
+Oct.Code.Common.Everything=每个
 
 \\\\
 \\
@@ -14731,14 +14731,14 @@ Oct.Code.Common.Ability={ability}能力
 \\	Oct.Code.Common.Rules.Type={type} Rules
 \\
 \\\\
-Oct.Code.Common.Rules.Type=\\untranslated
+Oct.Code.Common.Rules.Type={type}规则
 
 \\\\
 \\
 \\	Oct.Code.Common.Rules=Rules
 \\
 \\\\
-Oct.Code.Common.Rules=\\untranslated
+Oct.Code.Common.Rules=规则
 
 \\\\
 \\
@@ -15629,7 +15629,7 @@ Oct.Code.FoodAndDrink.Header=饮食
 \\	Oct.Code.FoodAndDrink.Override=Override
 \\
 \\\\
-Oct.Code.FoodAndDrink.Override=\\untranslated
+Oct.Code.FoodAndDrink.Override=覆盖
 
 \\\\
 \\
@@ -16201,7 +16201,7 @@ Oct.Code.Information.Alignment.Details.SubjectIs.Second=你
 \\	Oct.Code.Information.Alignment.Details.SubjectIs.Third={subject} {subject.mfn(is,is,is)}
 \\
 \\\\
-Oct.Code.Information.Alignment.Details.SubjectIs.Third={subject}{subject.mfn(,,)}
+Oct.Code.Information.Alignment.Details.SubjectIs.Third=\\untranslated
 
 \\\\
 \\
@@ -16426,7 +16426,7 @@ Oct.Code.Information.Belonging.LostValue={owners}{belonging}贬值了
 \\	Oct.Code.Information.Belonging.Claimed.Advanced={to.conjugate(I,you,{to})} claimed {belonging}
 \\
 \\\\
-Oct.Code.Information.Belonging.Claimed.Advanced=\\untranslated
+Oct.Code.Information.Belonging.Claimed.Advanced={to.conjugate(我,你,{to})}已领取{belonging}
 
 \\\\
 \\
@@ -18191,7 +18191,7 @@ Oct.Code.Information.KingdomSize.Details.Second=你们的王国是{size}
 \\	Oct.Code.Information.KingdomSize.Details.Third={kingdom} are a {size} Kingdom
 \\
 \\\\
-Oct.Code.Information.KingdomSize.Details.Third={kingdom}是{size}王国
+Oct.Code.Information.KingdomSize.Details.Third={kingdom}是一个{size}的王国
 
 \\\\
 \\
@@ -18214,7 +18214,7 @@ Oct.Code.Information.KingdomSizePreference.Compatibility=偏好{kingdomSize}
 \\	Oct.Code.Information.KingdomSizePreference.Details.Advanced={subject.con(I prefer,you prefer,{subject} prefers)} {kingdomSize}
 \\
 \\\\
-Oct.Code.Information.KingdomSizePreference.Details.Advanced={subject.con(我,你,{subject})}偏好{kingdomSize}
+Oct.Code.Information.KingdomSizePreference.Details.Advanced={subject.con(我偏好,你偏好,{subject}偏好)}{kingdomSize}
 
 \\\\
 \\
@@ -20177,21 +20177,21 @@ Oct.Code.Items.Verbs.Cooked=已烹饪
 \\	Oct.Code.Items.Common.Claim.Auto=Auto Claim
 \\
 \\\\
-Oct.Code.Items.Common.Claim.Auto=\\untranslated
+Oct.Code.Items.Common.Claim.Auto=自动领取
 
 \\\\
 \\
 \\	Oct.Code.Items.Common.Junk.Auto=Auto Junk
 \\
 \\\\
-Oct.Code.Items.Common.Junk.Auto=\\untranslated
+Oct.Code.Items.Common.Junk.Auto=自动报废
 
 \\\\
 \\
 \\	Oct.Code.Items.Common.Salvage.Auto=Auto Salvage
 \\
 \\\\
-Oct.Code.Items.Common.Salvage.Auto=\\untranslated
+Oct.Code.Items.Common.Salvage.Auto=自动回收
 
 \\\\
 \\
@@ -20205,14 +20205,14 @@ Oct.Code.Items.BaseEsteem=基本敬意
 \\	Oct.Code.Items.Claimable=Claimable
 \\
 \\\\
-Oct.Code.Items.Claimable=\\untranslated
+Oct.Code.Items.Claimable=可领取
 
 \\\\
 \\
 \\	Oct.Code.Items.Claimable.Mode=Claimable Mode
 \\
 \\\\
-Oct.Code.Items.Claimable.Mode=\\untranslated
+Oct.Code.Items.Claimable.Mode=可领取模式
 
 \\\\
 \\
@@ -20296,7 +20296,7 @@ Oct.Code.Items.Common.Rarity=稀有度
 \\	Oct.Code.Items.Common.SalvageMode=Salvage Mode
 \\
 \\\\
-Oct.Code.Items.Common.SalvageMode=\\untranslated
+Oct.Code.Items.Common.SalvageMode=回收模式
 
 \\\\
 \\
@@ -20795,7 +20795,7 @@ Oct.Code.Land=土地
 \\	Oct.Code.Language.Name=English
 \\
 \\\\
-Oct.Code.Language.Name=English
+Oct.Code.Language.Name=简体中文
 
 \\\\
 \\
@@ -22892,21 +22892,21 @@ Oct.Code.Rooms.InBuilding=建筑中
 \\	Oct.Code.Rule.Complex=Complex
 \\
 \\\\
-Oct.Code.Rule.Complex=\\untranslated
+Oct.Code.Rule.Complex=复杂
 
 \\\\
 \\
 \\	Oct.Code.Rule.Hours.From=From
 \\
 \\\\
-Oct.Code.Rule.Hours.From=自：
+Oct.Code.Rule.Hours.From=从
 
 \\\\
 \\
 \\	Oct.Code.Rule.Hours.To=To
 \\
 \\\\
-Oct.Code.Rule.Hours.To=至：
+Oct.Code.Rule.Hours.To=至
 
 \\\\
 \\
@@ -22920,105 +22920,105 @@ Oct.Code.Rules.Timeframe=从{fromHour}到{toHour}
 \\	Oct.Code.Rules.Quantity=Qty {comparison} {count}
 \\
 \\\\
-Oct.Code.Rules.Quantity=\\untranslated
+Oct.Code.Rules.Quantity=数量{comparison}{count}
 
 \\\\
 \\
 \\	Oct.Code.Rules.Value=Value {comparison} {value}
 \\
 \\\\
-Oct.Code.Rules.Value=\\untranslated
+Oct.Code.Rules.Value=价值{comparison}{value}
 
 \\\\
 \\
 \\	Oct.Code.Rules.Durability=Durability {comparison} {durability}
 \\
 \\\\
-Oct.Code.Rules.Durability=\\untranslated
+Oct.Code.Rules.Durability=耐久{comparison}{durability}
 
 \\\\
 \\
 \\	Oct.Code.Rules.Quality=Quality {comparison} {durability}
 \\
 \\\\
-Oct.Code.Rules.Quality=\\untranslated
+Oct.Code.Rules.Quality=品质{comparison}{durability}
 
 \\\\
 \\
 \\	Oct.Code.Rules.Rarity=Rarity {comparison} {rarity}
 \\
 \\\\
-Oct.Code.Rules.Rarity=\\untranslated
+Oct.Code.Rules.Rarity=稀有度{comparison}{rarity}
 
 \\\\
 \\
 \\	Oct.Code.Rules.BuffPoints=Buff Points {comparison} {points}
 \\
 \\\\
-Oct.Code.Rules.BuffPoints=\\untranslated
+Oct.Code.Rules.BuffPoints=增益点{comparison}{points}
 
 \\\\
 \\
 \\	Oct.Code.Rules.Is=Is
 \\
 \\\\
-Oct.Code.Rules.Is=\\untranslated
+Oct.Code.Rules.Is=是
 
 \\\\
 \\
 \\	Oct.Code.Rules.Is.Type=Is {type}
 \\
 \\\\
-Oct.Code.Rules.Is.Type=\\untranslated
+Oct.Code.Rules.Is.Type=是{type}
 
 \\\\
 \\
 \\	Oct.Code.Rules.BookSet.Spare.Keep=Keep
 \\
 \\\\
-Oct.Code.Rules.BookSet.Spare.Keep=\\untranslated
+Oct.Code.Rules.BookSet.Spare.Keep=保留
 
 \\\\
 \\
 \\	Oct.Code.Rules.BookSet.Spare=Is Spare Book Set (Keep {count})
 \\
 \\\\
-Oct.Code.Rules.BookSet.Spare=\\untranslated
+Oct.Code.Rules.BookSet.Spare=是闲置书本套装（保留{count}）
 
 \\\\
 \\
 \\	Oct.Code.Rules.Ambition=Prestige {comparison} {percent}% of Ambition
 \\
 \\\\
-Oct.Code.Rules.Ambition=\\untranslated
+Oct.Code.Rules.Ambition=声名{comparison}雄心的{percent}%
 
 \\\\
 \\
 \\	Oct.Code.Rules.Lodging=Prestige {comparison} {percent}% of Lodging
 \\
 \\\\
-Oct.Code.Rules.Lodging=\\untranslated
+Oct.Code.Rules.Lodging=声名{comparison}住宿条件的{percent}%
 
 \\\\
 \\
 \\	Oct.Code.Rules.Prestige=Prestige {comparison} {prestige}
 \\
 \\\\
-Oct.Code.Rules.Prestige=\\untranslated
+Oct.Code.Rules.Prestige=声名{comparison}{prestige}
 
 \\\\
 \\
 \\	Oct.Code.Rules.SatisfiesWant.Limit=Limit
 \\
 \\\\
-Oct.Code.Rules.SatisfiesWant.Limit=\\untranslated
+Oct.Code.Rules.SatisfiesWant.Limit=限制
 
 \\\\
 \\
 \\	Oct.Code.Rules.SatisfiesWant=Satisfies a Want ({limit})
 \\
 \\\\
-Oct.Code.Rules.SatisfiesWant=\\untranslated
+Oct.Code.Rules.SatisfiesWant=满足欲求（{limit}）
 
 \\\\
 \\
@@ -32872,7 +32872,7 @@ Oct.Items.Categories.Seeds.name=种子
 \\	Oct.Items.Categories.Food.Vegetarian.name=Vegetarian
 \\
 \\\\
-Oct.Items.Categories.Food.Vegetarian.name=\\untranslated
+Oct.Items.Categories.Food.Vegetarian.name=素食
 
 \\\\
 \\
@@ -33931,14 +33931,14 @@ Oct.Items.PropCrate.pluralName=物具箱
 \\	Oct.Items.PropCrate.nameFormat={type} Crate
 \\
 \\\\
-Oct.Items.PropCrate.nameFormat=\\untranslated
+Oct.Items.PropCrate.nameFormat={type}箱
 
 \\\\
 \\
 \\	Oct.Items.PropCrate.BookSet.nameFormat={type}
 \\
 \\\\
-Oct.Items.PropCrate.BookSet.nameFormat=\\untranslated
+Oct.Items.PropCrate.BookSet.nameFormat={type}
 
 \\\\
 \\
@@ -62068,280 +62068,280 @@ Oct.Rooms.Work.name=工坊
 \\	Oct.Rules.All.name=All of
 \\
 \\\\
-Oct.Rules.All.name=\\untranslated
+Oct.Rules.All.name=所有
 
 \\\\
 \\
 \\	Oct.Rules.All.tooltip=True when all child rules are True (False when Empty).
 \\
 \\\\
-Oct.Rules.All.tooltip=\\untranslated
+Oct.Rules.All.tooltip=当所有后代规则为真时为真（为空时为假）。
 
 \\\\
 \\
 \\	Oct.Rules.Any.name=Any of
 \\
 \\\\
-Oct.Rules.Any.name=\\untranslated
+Oct.Rules.Any.name=任意
 
 \\\\
 \\
 \\	Oct.Rules.Any.tooltip=True when any child rule is True (False when empty).
 \\
 \\\\
-Oct.Rules.Any.tooltip=\\untranslated
+Oct.Rules.Any.tooltip=当任意后代规则为真时为真（为空时为假）。
 
 \\\\
 \\
 \\	Oct.Rules.BuffPoints.name=Buff Pts
 \\
 \\\\
-Oct.Rules.BuffPoints.name=\\untranslated
+Oct.Rules.BuffPoints.name=增益点
 
 \\\\
 \\
 \\	Oct.Rules.BuffPoints.tooltip=True when the sum of +'s on an Item meets the criteria.
 \\
 \\\\
-Oct.Rules.BuffPoints.tooltip=\\untranslated
+Oct.Rules.BuffPoints.tooltip=当物品的增益点之和达到要求时为真。
 
 \\\\
 \\
 \\	Oct.Rules.Durability.name=Durability
 \\
 \\\\
-Oct.Rules.Durability.name=\\untranslated
+Oct.Rules.Durability.name=耐久
 
 \\\\
 \\
 \\	Oct.Rules.Durability.tooltip=True when Item Durability meets the criteria.
 \\
 \\\\
-Oct.Rules.Durability.tooltip=\\untranslated
+Oct.Rules.Durability.tooltip=当物品耐久达到要求时为真。
 
 \\\\
 \\
 \\	Oct.Rules.DuringFeast.name=During a Feast
 \\
 \\\\
-Oct.Rules.DuringFeast.name=\\untranslated
+Oct.Rules.DuringFeast.name=盛宴期间
 
 \\\\
 \\
 \\	Oct.Rules.DuringFeast.tooltip=True during a Feast.
 \\
 \\\\
-Oct.Rules.DuringFeast.tooltip=\\untranslated
+Oct.Rules.DuringFeast.tooltip=在盛宴期间为真。
 
 \\\\
 \\
 \\	Oct.Rules.DuringWedding.name=During a Wedding
 \\
 \\\\
-Oct.Rules.DuringWedding.name=\\untranslated
+Oct.Rules.DuringWedding.name=婚礼期间
 
 \\\\
 \\
 \\	Oct.Rules.DuringWedding.tooltip=True during a Wedding.
 \\
 \\\\
-Oct.Rules.DuringWedding.tooltip=\\untranslated
+Oct.Rules.DuringWedding.tooltip=在婚礼期间为真。
 
 \\\\
 \\
 \\	Oct.Rules.IsClaimable.name=Is Claimable
 \\
 \\\\
-Oct.Rules.IsClaimable.name=\\untranslated
+Oct.Rules.IsClaimable.name=是可领取物品
 
 \\\\
 \\
 \\	Oct.Rules.IsClaimable.tooltip=True when the Item is Claimable.
 \\
 \\\\
-Oct.Rules.IsClaimable.tooltip=\\untranslated
+Oct.Rules.IsClaimable.tooltip=当物品是可领取物品时为真。
 
 \\\\
 \\
 \\	Oct.Rules.IsJunk.name=Is Junk
 \\
 \\\\
-Oct.Rules.IsJunk.name=\\untranslated
+Oct.Rules.IsJunk.name=是垃圾
 
 \\\\
 \\
 \\	Oct.Rules.IsJunk.tooltip=True when the Item is Junk.
 \\
 \\\\
-Oct.Rules.IsJunk.tooltip=\\untranslated
+Oct.Rules.IsJunk.tooltip=当物品是垃圾时为真。
 
 \\\\
 \\
 \\	Oct.Rules.IsSpareBookSet.name=Is Spare Book Set
 \\
 \\\\
-Oct.Rules.IsSpareBookSet.name=\\untranslated
+Oct.Rules.IsSpareBookSet.name=是闲置书本套装
 
 \\\\
 \\
 \\	Oct.Rules.IsSpareBookSet.tooltip=True when there are extra Sets of this type (Placed or Crated, not Junk).
 \\
 \\\\
-Oct.Rules.IsSpareBookSet.tooltip=\\untranslated
+Oct.Rules.IsSpareBookSet.tooltip=当存在此类型的额外套装时（已放置或已装箱，非垃圾）为真。
 
 \\\\
 \\
 \\	Oct.Rules.ItemIs.name=Is
 \\
 \\\\
-Oct.Rules.ItemIs.name=\\untranslated
+Oct.Rules.ItemIs.name=是
 
 \\\\
 \\
 \\	Oct.Rules.ItemIs.tooltip=True when the Item Type is in the list.
 \\
 \\\\
-Oct.Rules.ItemIs.tooltip=\\untranslated
+Oct.Rules.ItemIs.tooltip=列表中有物品类型时为真。
 
 \\\\
 \\
 \\	Oct.Rules.NoneRule.name=None of
 \\
 \\\\
-Oct.Rules.NoneRule.name=\\untranslated
+Oct.Rules.NoneRule.name=皆非
 
 \\\\
 \\
 \\	Oct.Rules.NoneRule.tooltip=True when no child rule is True (True when empty).
 \\
 \\\\
-Oct.Rules.NoneRule.tooltip=\\untranslated
+Oct.Rules.NoneRule.tooltip=当没有后代规则为真时为真（为空时为真）。
 
 \\\\
 \\
 \\	Oct.Rules.Prestige.name=Prestige
 \\
 \\\\
-Oct.Rules.Prestige.name=\\untranslated
+Oct.Rules.Prestige.name=声名
 
 \\\\
 \\
 \\	Oct.Rules.Prestige.tooltip=True when Item's Prestige meets the criteria
 \\
 \\\\
-Oct.Rules.Prestige.tooltip=\\untranslated
+Oct.Rules.Prestige.tooltip=当物品声名达到要求时为真
 
 \\\\
 \\
 \\	Oct.Rules.PrestigePercentOfAmbition.name=Prestige as Percent of Ambition
 \\
 \\\\
-Oct.Rules.PrestigePercentOfAmbition.name=\\untranslated
+Oct.Rules.PrestigePercentOfAmbition.name=声名占雄心百分比
 
 \\\\
 \\
 \\	Oct.Rules.PrestigePercentOfAmbition.tooltip=True when the Item's Prestige meets the chosen condition compared to the Mortal's Ambition.
 \\
 \\\\
-Oct.Rules.PrestigePercentOfAmbition.tooltip=\\untranslated
+Oct.Rules.PrestigePercentOfAmbition.tooltip=当与凡胎的雄心相比，物品声名达到所选条件时为真。
 
 \\\\
 \\
 \\	Oct.Rules.PrestigePercentOfLodging.name=Prestige as Percent of Lodging
 \\
 \\\\
-Oct.Rules.PrestigePercentOfLodging.name=\\untranslated
+Oct.Rules.PrestigePercentOfLodging.name=声名占住宿条件百分比
 
 \\\\
 \\
 \\	Oct.Rules.PrestigePercentOfLodging.tooltip=True when the Item's Prestige meets the chosen condition when compared to the Prestige of a Mortal's Lodging.<br><br>A Prestige as Percent of Lodging of "<= 50%" means that an Item must be less in Prestige than half that of their assigned Lodging.<br><br>Given that there are 8 equipment slots, that ensures that their Lodging will make up at least 20% of their Prestige, satisfying their Lodging Need.
 \\
 \\\\
-Oct.Rules.PrestigePercentOfLodging.tooltip=\\untranslated
+Oct.Rules.PrestigePercentOfLodging.tooltip=当与凡胎的住宿声名相比，物品声名达到所选条件时为真。<br><br>声名占住宿条件百分比“<= 50%”时，表示物品的声名必须低于所分配住宿条件的一半。<br><br>因共有8个装备槽位，故可以确保其住宿条件至少占其声望的20%，能满足其住宿需求。
 
 \\\\
 \\
 \\	Oct.Rules.Quality.name=Quality
 \\
 \\\\
-Oct.Rules.Quality.name=\\untranslated
+Oct.Rules.Quality.name=品质
 
 \\\\
 \\
 \\	Oct.Rules.Quality.tooltip=True when Item Quality meets the criteria.
 \\
 \\\\
-Oct.Rules.Quality.tooltip=\\untranslated
+Oct.Rules.Quality.tooltip=当物品品质达到要求时为真。
 
 \\\\
 \\
 \\	Oct.Rules.Quantity.name=Qty
 \\
 \\\\
-Oct.Rules.Quantity.name=\\untranslated
+Oct.Rules.Quantity.name=数量
 
 \\\\
 \\
 \\	Oct.Rules.Quantity.tooltip=True when Qty of the Item meets the criteria.
 \\
 \\\\
-Oct.Rules.Quantity.tooltip=\\untranslated
+Oct.Rules.Quantity.tooltip=当物品数量达到要求时为真。
 
 \\\\
 \\
 \\	Oct.Rules.Rarity.name=Rarity
 \\
 \\\\
-Oct.Rules.Rarity.name=\\untranslated
+Oct.Rules.Rarity.name=稀有度
 
 \\\\
 \\
 \\	Oct.Rules.Rarity.tooltip=True when Item Rarity meets the criteria.
 \\
 \\\\
-Oct.Rules.Rarity.tooltip=\\untranslated
+Oct.Rules.Rarity.tooltip=当物品稀有度到要求时为真。
 
 \\\\
 \\
 \\	Oct.Rules.SatisfiesWant.name=Satisfies a Want
 \\
 \\\\
-Oct.Rules.SatisfiesWant.name=\\untranslated
+Oct.Rules.SatisfiesWant.name=满足欲求
 
 \\\\
 \\
 \\	Oct.Rules.SatisfiesWant.tooltip=True when the Item's Prestige satisfies a Want but doesn't exceed it by more than limit.
 \\
 \\\\
-Oct.Rules.SatisfiesWant.tooltip=\\untranslated
+Oct.Rules.SatisfiesWant.tooltip=当物品声名满足欲求且未超出限制时为真。
 
 \\\\
 \\
 \\	Oct.Rules.Timeframe.name=Timeframe
 \\
 \\\\
-Oct.Rules.Timeframe.name=\\untranslated
+Oct.Rules.Timeframe.name=时间范围
 
 \\\\
 \\
 \\	Oct.Rules.Timeframe.tooltip=True between the hours of From and To.
 \\
 \\\\
-Oct.Rules.Timeframe.tooltip=\\untranslated
+Oct.Rules.Timeframe.tooltip=介于开始时间和结束时间之间时为真。
 
 \\\\
 \\
 \\	Oct.Rules.Value.name=Value
 \\
 \\\\
-Oct.Rules.Value.name=\\untranslated
+Oct.Rules.Value.name=价值
 
 \\\\
 \\
 \\	Oct.Rules.Value.tooltip=True when Item Value meets the criteria.
 \\
 \\\\
-Oct.Rules.Value.tooltip=\\untranslated
+Oct.Rules.Value.tooltip=当物品价值达到要求时为真。
 
 \\\\
 \\
@@ -63617,7 +63617,7 @@ Oct.Settings.Global.Controls.Camera.Move.Right.name=向右移动
 \\	Oct.Settings.Global.Controls.Camera.Move.EdgeScroll.name=Edge Scroll
 \\
 \\\\
-Oct.Settings.Global.Controls.Camera.Move.EdgeScroll.name=\\untranslated
+Oct.Settings.Global.Controls.Camera.Move.EdgeScroll.name=边缘滚动
 
 \\\\
 \\
@@ -63638,14 +63638,14 @@ Oct.Settings.Global.Controls.Camera.Rotate.defaultValue=长按[鼠标中键]+[�
 \\	Oct.Settings.Global.Controls.Camera.Rotate.InvertPitch.name=Invert Pitch
 \\
 \\\\
-Oct.Settings.Global.Controls.Camera.Rotate.InvertPitch.name=\\untranslated
+Oct.Settings.Global.Controls.Camera.Rotate.InvertPitch.name=倒置间距
 
 \\\\
 \\
 \\	Oct.Settings.Global.Controls.Camera.Rotate.InvertPitch.Controlled.name=Invert Pitch (Controlled)
 \\
 \\\\
-Oct.Settings.Global.Controls.Camera.Rotate.InvertPitch.Controlled.name=\\untranslated
+Oct.Settings.Global.Controls.Camera.Rotate.InvertPitch.Controlled.name=倒置间距（已控制）
 
 \\\\
 \\
