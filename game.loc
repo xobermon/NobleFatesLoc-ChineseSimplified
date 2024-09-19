@@ -14316,7 +14316,7 @@ Oct.Code.Common.Maintain=维护
 \\	Oct.Code.Common.Mortal=Mortal
 \\
 \\\\
-Oct.Code.Common.Mortal=\\untranslated
+Oct.Code.Common.Mortal=凡胎
 
 \\\\
 \\
@@ -23123,14 +23123,14 @@ Oct.Code.Selection.Multiselect.Header=选择
 \\	Oct.Code.Selection.Cycle.Target=[R Click] Target
 \\
 \\\\
-Oct.Code.Selection.Cycle.Target=\\untranslated
+Oct.Code.Selection.Cycle.Target=[右键点击]目标
 
 \\\\
 \\
 \\	Oct.Code.Selection.Cycle.Selection=[L Click] Select
 \\
 \\\\
-Oct.Code.Selection.Cycle.Selection=\\untranslated
+Oct.Code.Selection.Cycle.Selection=[左键点击]选择
 
 \\\\
 \\
@@ -63491,7 +63491,7 @@ Oct.Settings.Global.Graphics.PortraitCount.name=头像数量
 \\	Oct.Settings.Global.Graphics.PortraitCount.tooltip=The Number of Portraits at the top of the Screen.
 \\
 \\\\
-Oct.Settings.Global.Graphics.PortraitCount.tooltip=\\untranslated
+Oct.Settings.Global.Graphics.PortraitCount.tooltip=位于屏幕顶部的头像数量。
 
 \\\\
 \\
@@ -63526,7 +63526,7 @@ Oct.Settings.Global.Interface.CloseTradeWindow.name=成交后关闭交易窗口
 \\	Oct.Settings.Global.Interface.CloseTradeWindow.tooltip=When enabled, the Trade Window is Closed after you make a deal.
 \\
 \\\\
-Oct.Settings.Global.Interface.CloseTradeWindow.tooltip=\\untranslated
+Oct.Settings.Global.Interface.CloseTradeWindow.tooltip=启用后，交易窗口将在你达成交易后关闭。
 
 \\\\
 \\
@@ -63540,42 +63540,42 @@ Oct.Settings.Global.Interface.BelongingsPortraitResort.name=所有物头像库
 \\	Oct.Settings.Global.Interface.BelongingsPortraitResort.tooltip=When enabled, Portraits can Re-sort from Prestige changes while you are on the Belongings Screen.
 \\
 \\\\
-Oct.Settings.Global.Interface.BelongingsPortraitResort.tooltip=\\untranslated
+Oct.Settings.Global.Interface.BelongingsPortraitResort.tooltip=启用后，当你在“所有物”界面中时可根据声名变化对头像进行重新排序。
 
 \\\\
 \\
 \\	Oct.Settings.Global.Interface.UntuckTools.name=Untuck Tools When
 \\
 \\\\
-Oct.Settings.Global.Interface.UntuckTools.name=\\untranslated
+Oct.Settings.Global.Interface.UntuckTools.name=“工具”展开方式
 
 \\\\
 \\
 \\	Oct.Settings.Global.Interface.UntuckTools.choices.1=Any Hovered
 \\
 \\\\
-Oct.Settings.Global.Interface.UntuckTools.choices.1=\\untranslated
+Oct.Settings.Global.Interface.UntuckTools.choices.1=悬停展开所有
 
 \\\\
 \\
 \\	Oct.Settings.Global.Interface.UntuckTools.choices.2=When Hovered
 \\
 \\\\
-Oct.Settings.Global.Interface.UntuckTools.choices.2=\\untranslated
+Oct.Settings.Global.Interface.UntuckTools.choices.2=仅展开悬停项
 
 \\\\
 \\
 \\	Oct.Settings.Global.Interface.UntuckTools.choices.3=Always
 \\
 \\\\
-Oct.Settings.Global.Interface.UntuckTools.choices.3=\\untranslated
+Oct.Settings.Global.Interface.UntuckTools.choices.3=总是
 
 \\\\
 \\
 \\	Oct.Settings.Global.Interface.UntuckTools.tooltip=Controls when the Tabs on the Toolbar are untucked.
 \\
 \\\\
-Oct.Settings.Global.Interface.UntuckTools.tooltip=\\untranslated
+Oct.Settings.Global.Interface.UntuckTools.tooltip=控制工具栏中标签页的展开方式。
 
 \\\\
 \\
