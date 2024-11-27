@@ -6221,6 +6221,13 @@ Oct.Characters.Humanoids.NuOrc.Brows04.name=雄性4
 
 \\\\
 \\
+\\	Oct.Characters.Humanoids.NuOrc.Hair.None.Male.name=Male None
+\\
+\\\\
+Oct.Characters.Humanoids.NuOrc.Hair.None.Male.name=\\untranslated
+
+\\\\
+\\
 \\	Oct.Characters.Humanoids.NuOrc.Eye01.name=Male 1
 \\
 \\\\
@@ -6372,6 +6379,13 @@ Oct.Characters.Humanoids.NuOrc.Mouth-Fem02.name=雌性2
 \\
 \\\\
 Oct.Characters.Humanoids.NuOrc.Mouth-Fem03.name=雌性3
+
+\\\\
+\\
+\\	Oct.Characters.Humanoids.NuOrc.Hair.None.Female.name=Female None
+\\
+\\\\
+Oct.Characters.Humanoids.NuOrc.Hair.None.Female.name=\\untranslated
 
 \\\\
 \\
@@ -7502,6 +7516,34 @@ Oct.Code.Abilities.ChooseTarget=选择{ability}目标
 
 \\\\
 \\
+\\	Oct.Code.Adventure.Abandon.Header=Abandon?
+\\
+\\\\
+Oct.Code.Adventure.Abandon.Header=抛弃？
+
+\\\\
+\\
+\\	Oct.Code.Adventure.Abandon.Details=Abandon your party?
+\\
+\\\\
+Oct.Code.Adventure.Abandon.Details=抛下伙伴？
+
+\\\\
+\\
+\\	Oct.Code.Adventure.Retreat.Header=Retreat?
+\\
+\\\\
+Oct.Code.Adventure.Retreat.Header=撤退？
+
+\\\\
+\\
+\\	Oct.Code.Adventure.Reatreat.Details=Abandon the helpless and head home?
+\\
+\\\\
+Oct.Code.Adventure.Reatreat.Details=抛下手足无措者回家？
+
+\\\\
+\\
 \\	Oct.Code.Adventure.Captions.Request=Request
 \\
 \\\\
@@ -7569,34 +7611,6 @@ Oct.Code.Adventure.Captions.Failed=已失败
 \\
 \\\\
 Oct.Code.Adventure.Captions.Rewards=奖励！
-
-\\\\
-\\
-\\	Oct.Code.Adventure.Abandon.Header=Abandon?
-\\
-\\\\
-Oct.Code.Adventure.Abandon.Header=抛弃？
-
-\\\\
-\\
-\\	Oct.Code.Adventure.Abandon.Details=Abandon your party?
-\\
-\\\\
-Oct.Code.Adventure.Abandon.Details=抛下伙伴？
-
-\\\\
-\\
-\\	Oct.Code.Adventure.Retreat.Header=Retreat?
-\\
-\\\\
-Oct.Code.Adventure.Retreat.Header=撤退？
-
-\\\\
-\\
-\\	Oct.Code.Adventure.Reatreat.Details=Abandon the helpless and head home?
-\\
-\\\\
-Oct.Code.Adventure.Reatreat.Details=抛下手足无措者回家？
 
 \\\\
 \\
@@ -8531,20 +8545,6 @@ Oct.Code.Character.Age.Adult.Old=老年
 
 \\\\
 \\
-\\	Oct.Code.Characters.SelectAll=Select All
-\\
-\\\\
-Oct.Code.Characters.SelectAll=选择所有
-
-\\\\
-\\
-\\	Oct.Code.Characters.Leave=Leave
-\\
-\\\\
-Oct.Code.Characters.Leave=离开
-
-\\\\
-\\
 \\	Oct.Code.Characters.HealRate.Treated=Treated
 \\
 \\\\
@@ -9294,6 +9294,20 @@ Oct.Code.Characters.StatModifiers.Inspired=灵感迸发
 
 \\\\
 \\
+\\	Oct.Code.Characters.SelectAll=Select All
+\\
+\\\\
+Oct.Code.Characters.SelectAll=选择所有
+
+\\\\
+\\
+\\	Oct.Code.Characters.Leave=Leave
+\\
+\\\\
+Oct.Code.Characters.Leave=离开
+
+\\\\
+\\
 \\	Oct.Code.Characters.Mission.Abandon=Abandon
 \\
 \\\\
@@ -9340,6 +9354,13 @@ Oct.Code.Characters.Properties.Growth={items}成长
 \\
 \\\\
 Oct.Code.Characters.Commands.Collect=收集{items}
+
+\\\\
+\\
+\\	Oct.Code.Characters.Status.GettingHelp=Getting Help
+\\
+\\\\
+Oct.Code.Characters.Status.GettingHelp=获得帮助
 
 \\\\
 \\
@@ -12077,13 +12098,6 @@ Oct.Code.Characters.FoodBudget=食物预算
 \\
 \\\\
 Oct.Code.Characters.Trade=交易
-
-\\\\
-\\
-\\	Oct.Code.Characters.Status.GettingHelp=Getting Help
-\\
-\\\\
-Oct.Code.Characters.Status.GettingHelp=获得帮助
 
 \\\\
 \\
@@ -15528,13 +15542,6 @@ Oct.Code.FixedValueCharacterWant.Text={character}要{type}
 
 \\\\
 \\
-\\	Oct.Code.Foliage.Canopy=Canopy
-\\
-\\\\
-Oct.Code.Foliage.Canopy=树冠
-
-\\\\
-\\
 \\	Oct.Code.Foliage.Age=Age
 \\
 \\\\
@@ -15560,6 +15567,13 @@ Oct.Code.Foliage.Water=浇水
 \\
 \\\\
 Oct.Code.Foliage.Burned=烧焦
+
+\\\\
+\\
+\\	Oct.Code.Foliage.Canopy=Canopy
+\\
+\\\\
+Oct.Code.Foliage.Canopy=树冠
 
 \\\\
 \\
@@ -23953,41 +23967,9 @@ Oct.Code.Tools.Stockpiles=存货堆垛
 
 \\\\
 \\
-\\	Oct.Code.Tools.Beliefs=Beliefs
+\\	Oct.Code.Tools.Belongings=Belongings
 \\
 \\\\
-Oct.Code.Tools.Beliefs=信仰
-
-\\\\
-\\
-\\	Oct.Code.Tools.World=World
-\\
-\\\\
-Oct.Code.Tools.World=世界
-
-\\\\
-\\
-\\	Oct.Code.Tools.Food=Food
-\\
-\\\\
-Oct.Code.Tools.Food=食物
-
-\\\\
-\\
-\\	Oct.Code.Tools.Stockpiles.Add=Add
-\\
-\\\\
-Oct.Code.Tools.Stockpiles.Add=添加
-
-\\\\
-\\
-\\	Oct.Code.Tools.Stockpiles.Remove=Remove
-\\
-\\\\
-Oct.Code.Tools.Stockpiles.Remove=移除
-
-\\\\
-\\
 \\	Oct.Code.Tools.Belongings=Belongings
 \\
 \\\\
@@ -24016,10 +23998,38 @@ Oct.Code.Tools.Schedule=计划
 
 \\\\
 \\
+\\	Oct.Code.Tools.World=World
+\\
+\\\\
+Oct.Code.Tools.World=世界
+
+\\\\
+\\
 \\	Oct.Code.Tools.Petitions=Petitions
 \\
 \\\\
 Oct.Code.Tools.Petitions=请愿
+
+\\\\
+\\
+\\	Oct.Code.Tools.Beliefs=Beliefs
+\\
+\\\\
+Oct.Code.Tools.Beliefs=信仰
+
+\\\\
+\\
+\\	Oct.Code.Tools.Stockpiles.Add=Add
+\\
+\\\\
+Oct.Code.Tools.Stockpiles.Add=添加
+
+\\\\
+\\
+\\	Oct.Code.Tools.Stockpiles.Remove=Remove
+\\
+\\\\
+Oct.Code.Tools.Stockpiles.Remove=移除
 
 \\\\
 \\
@@ -24041,6 +24051,13 @@ Oct.Code.Tools.Zone.Remove=移除
 \\
 \\\\
 Oct.Code.Tools.Bulk.Multiple.Controls=长按[鼠标左键]+拖动：多选
+
+\\\\
+\\
+\\	Oct.Code.Tools.Learning=Learning
+\\
+\\\\
+Oct.Code.Tools.Learning=\\untranslated
 
 \\\\
 \\
@@ -24387,17 +24404,63 @@ Oct.Code.Visibility.Stockpiles=存货堆垛
 
 \\\\
 \\
-\\	Oct.Code.Visibility.UI=UI
+\\	Oct.Code.Visibility.Characters.AbilityTriggers=Ability Triggers
 \\
 \\\\
-Oct.Code.Visibility.UI=用户界面
+Oct.Code.Visibility.Characters.AbilityTriggers=能力触发
 
 \\\\
 \\
-\\	Oct.Code.Visibility.InWorldUI=In World UI
+\\	Oct.Code.Visibility.Characters.Names=Names
 \\
 \\\\
-Oct.Code.Visibility.InWorldUI=世界界面
+Oct.Code.Visibility.Characters.Names=名称
+
+\\\\
+\\
+\\	Oct.Code.Visibility.Characters.Speech=Speech
+\\
+\\\\
+Oct.Code.Visibility.Characters.Speech=言论
+
+\\\\
+\\
+\\	Oct.Code.Visibility.Characters.Health=Health
+\\
+\\\\
+Oct.Code.Visibility.Characters.Health=生命
+
+\\\\
+\\
+\\	Oct.Code.Visibility.Characters.Progress=Progress
+\\
+\\\\
+Oct.Code.Visibility.Characters.Progress=进度
+
+\\\\
+\\
+\\	Oct.Code.Visibility.Characters.Caps=Caps
+\\
+\\\\
+Oct.Code.Visibility.Characters.Caps=帽子
+
+\\\\
+\\
+\\	Oct.Code.Visibility.Items.LockedRecipes=Locked Recipes
+\\
+\\\\
+Oct.Code.Visibility.Items.LockedRecipes=\\untranslated
+
+\\\\
+\\
+\\	Oct.Code.Visibility.Items.Stats=Item Stats
+\\
+\\\\
+Oct.Code.Visibility.Items.Stats=\\untranslated
+
+\\\\
+\\
+
 
 \\\\
 \\
@@ -24457,45 +24520,17 @@ Oct.Code.Visibility.Temperature=温度
 
 \\\\
 \\
-\\	Oct.Code.Visibility.Characters.Names=Names
+\\	Oct.Code.Visibility.UI=UI
 \\
 \\\\
-Oct.Code.Visibility.Characters.Names=名称
+Oct.Code.Visibility.UI=用户界面
 
 \\\\
 \\
-\\	Oct.Code.Visibility.Characters.Speech=Speech
+\\	Oct.Code.Visibility.InWorldUI=In World UI
 \\
 \\\\
-Oct.Code.Visibility.Characters.Speech=言论
-
-\\\\
-\\
-\\	Oct.Code.Visibility.Characters.Health=Health
-\\
-\\\\
-Oct.Code.Visibility.Characters.Health=生命
-
-\\\\
-\\
-\\	Oct.Code.Visibility.Characters.Progress=Progress
-\\
-\\\\
-Oct.Code.Visibility.Characters.Progress=进度
-
-\\\\
-\\
-\\	Oct.Code.Visibility.Characters.Caps=Caps
-\\
-\\\\
-Oct.Code.Visibility.Characters.Caps=帽子
-
-\\\\
-\\
-\\	Oct.Code.Visibility.Characters.AbilityTriggers=Ability Triggers
-\\
-\\\\
-Oct.Code.Visibility.Characters.AbilityTriggers=能力触发
+Oct.Code.Visibility.InWorldUI=世界界面
 
 \\\\
 \\
@@ -33051,6 +33086,27 @@ Oct.Items.Categories.Food.Drinks.Moonshine.name=私酿
 
 \\\\
 \\
+\\	Oct.Items.Categories.Gear.Outer.Cloaks.name=Cloaks
+\\
+\\\\
+Oct.Items.Categories.Gear.Outer.Cloaks.name=\\untranslated
+
+\\\\
+\\
+\\	Oct.Items.Categories.Gear.Outer.name=Outer
+\\
+\\\\
+Oct.Items.Categories.Gear.Outer.name=外部
+
+\\\\
+\\
+\\	Oct.Items.Categories.Resources.Leather.name=Leather
+\\
+\\\\
+Oct.Items.Categories.Resources.Leather.name=皮革
+
+\\\\
+\\
 \\	Oct.Items.Categories.Food.MealBeans.name=Meal Beans
 \\
 \\\\
@@ -33132,20 +33188,6 @@ Oct.Items.Categories.Gear.Hands.name=手部
 \\
 \\\\
 Oct.Items.Categories.Gear.Feet.name=脚部
-
-\\\\
-\\
-\\	Oct.Items.Categories.Gear.Outer.name=Outer
-\\
-\\\\
-Oct.Items.Categories.Gear.Outer.name=外部
-
-\\\\
-\\
-\\	Oct.Items.Categories.Resources.Leather.name=Leather
-\\
-\\\\
-Oct.Items.Categories.Resources.Leather.name=皮革
 
 \\\\
 \\
@@ -33436,6 +33478,34 @@ Oct.Items.Categories.Props.Other.name=其他
 
 \\\\
 \\
+\\	Oct.Items.Clothing.Cloak.Martial.name=Martial Cloak
+\\
+\\\\
+Oct.Items.Clothing.Cloak.Martial.name=\\untranslated
+
+\\\\
+\\
+\\	Oct.Items.Clothing.Cloak.Martial.pluralName=Martial Cloaks
+\\
+\\\\
+Oct.Items.Clothing.Cloak.Martial.pluralName=\\untranslated
+
+\\\\
+\\
+\\	Oct.Items.Clothing.Cloak.Royal.name=Royal Cloak
+\\
+\\\\
+Oct.Items.Clothing.Cloak.Royal.name=\\untranslated
+
+\\\\
+\\
+\\	Oct.Items.Clothing.Cloak.Royal.pluralName=Royal Cloaks
+\\
+\\\\
+Oct.Items.Clothing.Cloak.Royal.pluralName=\\untranslated
+
+\\\\
+\\
 \\	Oct.Items.Clothing.Shoes.Cloth.name=Cloth Shoes
 \\
 \\\\
@@ -33475,6 +33545,34 @@ Oct.Items.Clothing.Leggings.Cloth.name=布长裤
 \\
 \\\\
 Oct.Items.Clothing.Hood.Cloth.name=布兜帽
+
+\\\\
+\\
+\\	Oct.Items.Clothing.Cloak.Poor.name=Poor Cloak
+\\
+\\\\
+Oct.Items.Clothing.Cloak.Poor.name=\\untranslated
+
+\\\\
+\\
+\\	Oct.Items.Clothing.Cloak.Poor.pluralName=Poor Cloaks
+\\
+\\\\
+Oct.Items.Clothing.Cloak.Poor.pluralName=\\untranslated
+
+\\\\
+\\
+\\	Oct.Items.Clothing.Cloak.Modest.name=Modest Cloak
+\\
+\\\\
+Oct.Items.Clothing.Cloak.Modest.name=\\untranslated
+
+\\\\
+\\
+\\	Oct.Items.Clothing.Cloak.Modest.pluralName=Modest Cloaks
+\\
+\\\\
+Oct.Items.Clothing.Cloak.Modest.pluralName=\\untranslated
 
 \\\\
 \\
@@ -34670,6 +34768,27 @@ Oct.Items.Stackable.Wine.name=酒
 
 \\\\
 \\
+\\	Oct.Items.Stackable.Skins.Hide.name=Hide
+\\
+\\\\
+Oct.Items.Stackable.Skins.Hide.name=厚皮
+
+\\\\
+\\
+\\	Oct.Items.Stackable.Skins.Leather.name=Leather
+\\
+\\\\
+Oct.Items.Stackable.Skins.Leather.name=皮革
+
+\\\\
+\\
+\\	Oct.Items.Stackable.Gold.name=Gold
+\\
+\\\\
+Oct.Items.Stackable.Gold.name=黄金
+
+\\\\
+\\
 \\	Oct.Items.Stackable.RawMeat.Wolf.name=Raw Wolf
 \\
 \\\\
@@ -34702,13 +34821,6 @@ Oct.Items.Stackable.Coins.name=钱
 \\
 \\\\
 Oct.Items.Stackable.Silver.name=白银
-
-\\\\
-\\
-\\	Oct.Items.Stackable.Gold.name=Gold
-\\
-\\\\
-Oct.Items.Stackable.Gold.name=黄金
 
 \\\\
 \\
@@ -34751,20 +34863,6 @@ Oct.Items.Stackable.MealBeans.Ripe.name=成熟餐豆
 \\
 \\\\
 Oct.Items.Stackable.MealBeans.Overripe.name=过熟餐豆
-
-\\\\
-\\
-\\	Oct.Items.Stackable.Skins.Hide.name=Hide
-\\
-\\\\
-Oct.Items.Stackable.Skins.Hide.name=厚皮
-
-\\\\
-\\
-\\	Oct.Items.Stackable.Skins.Leather.name=Leather
-\\
-\\\\
-Oct.Items.Stackable.Skins.Leather.name=皮革
 
 \\\\
 \\
@@ -60868,6 +60966,34 @@ Oct.Research.Clothing.Costumes.Veil.name=面纱
 
 \\\\
 \\
+\\	Oct.Research.Clothing.Cloak.Poor.name=Poor Cloaks
+\\
+\\\\
+Oct.Research.Clothing.Cloak.Poor.name=\\untranslated
+
+\\\\
+\\
+\\	Oct.Research.Clothing.Cloak.Modest.name=Modest Cloaks
+\\
+\\\\
+Oct.Research.Clothing.Cloak.Modest.name=\\untranslated
+
+\\\\
+\\
+\\	Oct.Research.Clothing.Cloak.Martial.name=Martial Cloaks
+\\
+\\\\
+Oct.Research.Clothing.Cloak.Martial.name=\\untranslated
+
+\\\\
+\\
+\\	Oct.Research.Clothing.Cloak.Royal.name=Royal Cloaks
+\\
+\\\\
+Oct.Research.Clothing.Cloak.Royal.name=\\untranslated
+
+\\\\
+\\
 \\	Oct.Research.Clothing.Blouse.Cloth.name=Cloth Blouses
 \\
 \\\\
@@ -63222,14 +63348,14 @@ Oct.Settings.Game.Origin.PrincipleAdoption.tooltip=起源群体在最开始对�
 
 \\\\
 \\
-\\	Oct.Settings.Game.Characters.VisualExtremes.name=Visual Extremes
+\\	Oct.Settings.Game.Characters.VisualExtremes.name=Visual Goofiness
 \\
 \\\\
 Oct.Settings.Game.Characters.VisualExtremes.name=目光极限
 
 \\\\
 \\
-\\	Oct.Settings.Game.Characters.VisualExtremes.tooltip=Controls the Extremes of Character Visuals.
+\\	Oct.Settings.Game.Characters.VisualExtremes.tooltip=Controls how Goofy the Character Visuals can be.
 \\
 \\\\
 Oct.Settings.Game.Characters.VisualExtremes.tooltip=控制角色的目光极限。
