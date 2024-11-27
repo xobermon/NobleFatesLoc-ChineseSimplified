@@ -6224,7 +6224,7 @@ Oct.Characters.Humanoids.NuOrc.Brows04.name=雄性4
 \\	Oct.Characters.Humanoids.NuOrc.Hair.None.Male.name=Male None
 \\
 \\\\
-Oct.Characters.Humanoids.NuOrc.Hair.None.Male.name=\\untranslated
+Oct.Characters.Humanoids.NuOrc.Hair.None.Male.name=雄性无
 
 \\\\
 \\
@@ -6385,7 +6385,7 @@ Oct.Characters.Humanoids.NuOrc.Mouth-Fem03.name=雌性3
 \\	Oct.Characters.Humanoids.NuOrc.Hair.None.Female.name=Female None
 \\
 \\\\
-Oct.Characters.Humanoids.NuOrc.Hair.None.Female.name=\\untranslated
+Oct.Characters.Humanoids.NuOrc.Hair.None.Female.name=雌性无
 
 \\\\
 \\
@@ -23970,10 +23970,14 @@ Oct.Code.Tools.Stockpiles=存货堆垛
 \\	Oct.Code.Tools.Belongings=Belongings
 \\
 \\\\
-\\	Oct.Code.Tools.Belongings=Belongings
+Oct.Code.Tools.Belongings=所有物
+
+\\\\
+\\
+\\	Oct.Code.Tools.Schedule=Schedule
 \\
 \\\\
-Oct.Code.Tools.Belongings=所有物
+Oct.Code.Tools.Schedule=计划
 
 \\\\
 \\
@@ -23984,17 +23988,10 @@ Oct.Code.Tools.Jobs=事务
 
 \\\\
 \\
-\\	Oct.Code.Tools.Learning=Learning
+\\	Oct.Code.Tools.Food=Food
 \\
 \\\\
-Oct.Code.Tools.Learning=学习
-
-\\\\
-\\
-\\	Oct.Code.Tools.Schedule=Schedule
-\\
-\\\\
-Oct.Code.Tools.Schedule=计划
+Oct.Code.Tools.Food=食物
 
 \\\\
 \\
@@ -24057,7 +24054,7 @@ Oct.Code.Tools.Bulk.Multiple.Controls=长按[鼠标左键]+拖动：多选
 \\	Oct.Code.Tools.Learning=Learning
 \\
 \\\\
-Oct.Code.Tools.Learning=\\untranslated
+Oct.Code.Tools.Learning=学习
 
 \\\\
 \\
@@ -24449,31 +24446,6 @@ Oct.Code.Visibility.Characters.Caps=帽子
 \\	Oct.Code.Visibility.Items.LockedRecipes=Locked Recipes
 \\
 \\\\
-Oct.Code.Visibility.Items.LockedRecipes=\\untranslated
-
-\\\\
-\\
-\\	Oct.Code.Visibility.Items.Stats=Item Stats
-\\
-\\\\
-Oct.Code.Visibility.Items.Stats=\\untranslated
-
-\\\\
-\\
-
-
-\\\\
-\\
-\\	Oct.Code.Visibility.Paths=Paths
-\\
-\\\\
-Oct.Code.Visibility.Paths=路径
-
-\\\\
-\\
-\\	Oct.Code.Visibility.Items.LockedRecipes=Locked Recipes
-\\
-\\\\
 Oct.Code.Visibility.Items.LockedRecipes=锁定图纸
 
 \\\\
@@ -24482,6 +24454,13 @@ Oct.Code.Visibility.Items.LockedRecipes=锁定图纸
 \\
 \\\\
 Oct.Code.Visibility.Items.Stats=物品数据
+
+\\\\
+\\
+\\	Oct.Code.Visibility.Paths=Paths
+\\
+\\\\
+Oct.Code.Visibility.Paths=路径
 
 \\\\
 \\
@@ -33089,7 +33068,7 @@ Oct.Items.Categories.Food.Drinks.Moonshine.name=私酿
 \\	Oct.Items.Categories.Gear.Outer.Cloaks.name=Cloaks
 \\
 \\\\
-Oct.Items.Categories.Gear.Outer.Cloaks.name=\\untranslated
+Oct.Items.Categories.Gear.Outer.Cloaks.name=斗篷\\autotranslated
 
 \\\\
 \\
@@ -33481,28 +33460,28 @@ Oct.Items.Categories.Props.Other.name=其他
 \\	Oct.Items.Clothing.Cloak.Martial.name=Martial Cloak
 \\
 \\\\
-Oct.Items.Clothing.Cloak.Martial.name=\\untranslated
+Oct.Items.Clothing.Cloak.Martial.name=武斗披风\\autotranslated
 
 \\\\
 \\
 \\	Oct.Items.Clothing.Cloak.Martial.pluralName=Martial Cloaks
 \\
 \\\\
-Oct.Items.Clothing.Cloak.Martial.pluralName=\\untranslated
+Oct.Items.Clothing.Cloak.Martial.pluralName=武斗斗篷\\autotranslated
 
 \\\\
 \\
 \\	Oct.Items.Clothing.Cloak.Royal.name=Royal Cloak
 \\
 \\\\
-Oct.Items.Clothing.Cloak.Royal.name=\\untranslated
+Oct.Items.Clothing.Cloak.Royal.name=皇家斗篷\\autotranslated
 
 \\\\
 \\
 \\	Oct.Items.Clothing.Cloak.Royal.pluralName=Royal Cloaks
 \\
 \\\\
-Oct.Items.Clothing.Cloak.Royal.pluralName=\\untranslated
+Oct.Items.Clothing.Cloak.Royal.pluralName=皇家斗篷\\autotranslated
 
 \\\\
 \\
@@ -33551,28 +33530,28 @@ Oct.Items.Clothing.Hood.Cloth.name=布兜帽
 \\	Oct.Items.Clothing.Cloak.Poor.name=Poor Cloak
 \\
 \\\\
-Oct.Items.Clothing.Cloak.Poor.name=\\untranslated
+Oct.Items.Clothing.Cloak.Poor.name=可怜的斗篷\\autotranslated
 
 \\\\
 \\
 \\	Oct.Items.Clothing.Cloak.Poor.pluralName=Poor Cloaks
 \\
 \\\\
-Oct.Items.Clothing.Cloak.Poor.pluralName=\\untranslated
+Oct.Items.Clothing.Cloak.Poor.pluralName=可怜的斗篷\\autotranslated
 
 \\\\
 \\
 \\	Oct.Items.Clothing.Cloak.Modest.name=Modest Cloak
 \\
 \\\\
-Oct.Items.Clothing.Cloak.Modest.name=\\untranslated
+Oct.Items.Clothing.Cloak.Modest.name=朴素斗篷\\autotranslated
 
 \\\\
 \\
 \\	Oct.Items.Clothing.Cloak.Modest.pluralName=Modest Cloaks
 \\
 \\\\
-Oct.Items.Clothing.Cloak.Modest.pluralName=\\untranslated
+Oct.Items.Clothing.Cloak.Modest.pluralName=朴素斗篷\\autotranslated
 
 \\\\
 \\
@@ -60969,28 +60948,28 @@ Oct.Research.Clothing.Costumes.Veil.name=面纱
 \\	Oct.Research.Clothing.Cloak.Poor.name=Poor Cloaks
 \\
 \\\\
-Oct.Research.Clothing.Cloak.Poor.name=\\untranslated
+Oct.Research.Clothing.Cloak.Poor.name=可怜的斗篷\\autotranslated
 
 \\\\
 \\
 \\	Oct.Research.Clothing.Cloak.Modest.name=Modest Cloaks
 \\
 \\\\
-Oct.Research.Clothing.Cloak.Modest.name=\\untranslated
+Oct.Research.Clothing.Cloak.Modest.name=朴素斗篷\\autotranslated
 
 \\\\
 \\
 \\	Oct.Research.Clothing.Cloak.Martial.name=Martial Cloaks
 \\
 \\\\
-Oct.Research.Clothing.Cloak.Martial.name=\\untranslated
+Oct.Research.Clothing.Cloak.Martial.name=武斗斗篷\\autotranslated
 
 \\\\
 \\
 \\	Oct.Research.Clothing.Cloak.Royal.name=Royal Cloaks
 \\
 \\\\
-Oct.Research.Clothing.Cloak.Royal.name=\\untranslated
+Oct.Research.Clothing.Cloak.Royal.name=皇家斗篷\\autotranslated
 
 \\\\
 \\
